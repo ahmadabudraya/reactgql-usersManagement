@@ -1,0 +1,4 @@
+Requirement already satisfied: django-filter in /usr/local/lib/python3.5/dist-packages (2.1.0)
+Requirement already satisfied: Django>=1.11 in /home/abudraya/.local/lib/python3.5/site-packages (from django-filter) (2.2)
+Requirement already satisfied: sqlparse in /home/abudraya/.local/lib/python3.5/site-packages (from Django>=1.11->django-filter) (0.3.0)
+Requirement already satisfied: pytz in /home/abudraya/.local/lib/python3.5/site-packages (from Django>=1.11->django-filter) (2018.9)
